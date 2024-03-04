@@ -9,17 +9,6 @@ This is a node.js chat application powered by Kafka, Redis, and WebSocket(Socket
   </a>
 </p>
 
-
-## Features
-- User friendly UI for interaction
-- User Registration
-- User Login/ Authentication
-- Room specific chat services
-- Private messaging
-- Active online users tracking
-- Low latency message retrieval using Redis caching
-- Scalable message processing with Kafka
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -33,6 +22,17 @@ This is a node.js chat application powered by Kafka, Redis, and WebSocket(Socket
 
 
 ---
+## Features
+- User friendly UI for interaction
+- User Registration
+- User Login/ Authentication
+- Room specific chat services
+- Private messaging
+- Active online users tracking
+- Low latency message retrieval using Redis caching
+- Scalable message processing with Kafka
+
+
 
 ## Installation
 Clone this repo or download it to your pc and run `docker-compose up` to get the setup ready.
